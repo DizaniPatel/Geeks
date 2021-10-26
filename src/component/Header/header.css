@@ -1,0 +1,14 @@
+.Toolbar {
+    background-color: white;
+}
+
+.Signin {
+    background-color: white;
+    color: black;
+}
+
+.btn {
+    border: none;
+    font-size: "25px";
+    background-color: inherit;
+}
